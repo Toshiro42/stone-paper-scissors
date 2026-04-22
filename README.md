@@ -1,7 +1,8 @@
 # 🪨📄✂️ Stone Paper Scissors Arena
 
 A full-stack 2-player Stone Paper Scissors game with 6 rounds per match, player history, and a REST API.
-LIVE LINK :- https://stone-paper-scissors-54se.onrender.com
+
+LIVE LINK :- http://13.60.244.103:8080
 
 ---
 
